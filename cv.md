@@ -26,3 +26,12 @@ I will help your company grow by working on your projects.
 ### Courses:
 >2021
 >SkillUp 
+
+### Skills, knowledge:
+>*Programming languages*: HTML /SCSS/SASS (responsive, adaptive), JavaScript;
+>*Frameworks*: Bootstrap, JQuery, React;
+>*Methodology*:BEM, Tools;
+>*Graphic editors*: Figma, Adobe XD, Adobe Photoshop;
+>*Version control system*: GIT, Git Lab;
+>*Other*: OOP, JSON, AJAX, Flexbox, Grid;
+>*English*: Intermediate;
