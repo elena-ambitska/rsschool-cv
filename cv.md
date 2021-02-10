@@ -35,3 +35,8 @@ I will help your company grow by working on your projects.
 >*Version control system*: GIT, Git Lab;
 >*Other*: OOP, JSON, AJAX, Flexbox, Grid;
 >*English*: Intermediate;
+
+### Hobbies: 
+> Burn sweets in a gym;
+> Dancing;
+> Watching films on Netflix.
